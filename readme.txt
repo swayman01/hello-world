@@ -1,0 +1,1 @@
+This is a readme sample file for git
